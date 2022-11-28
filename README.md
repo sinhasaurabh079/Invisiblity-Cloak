@@ -31,9 +31,18 @@ OpenCV (Python)
   
   ` pip install opencv-python `
   
+   <li> Move to Desktop</li>
+  
+  ` cd Desktop `
+
   <li> Clone this repository into your local machine </li>
   
   ` git clone https://github.com/sinhasaurabh3104/Invisiblity-Cloak.git `
+  
+  
+   <li> Change Directory to Invisiblity Cloak</li>
+  
+  ` cd Invisiblity-Cloak `
   
   <li> Open Code Editor</li>
  
@@ -42,6 +51,6 @@ OpenCV (Python)
    <li> Replace the image file with your background </li>
    <li> Name of the image file must be "image.jpg" </li>
    <li> Run <strong> Invisiblity-cloak.py </strong> </li>
-   <li> Enjoy</li>
+   <li> Enjoy with your invisiblity cloak</li>
    
    
