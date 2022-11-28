@@ -1,6 +1,6 @@
 # Invisiblity-Cloak
 
-Being a harry potter fan I always had a childhood fantasy of using an invisibility cloak. Well it turns out that using simple image processing tricks I can now actually fulfil my childhood fantasy. This code turns a red colour cloth into an invisibility cloak.
+Being a harry potter fan I always had a childhood fantasy of using an invisibility cloak. Well it turns out that using simple image processing tricks I can now actually fulfil my childhood fantasy. This code turns a "Red Colour Cloth" into an invisibility cloak.
 
 <br>
 
@@ -22,7 +22,7 @@ OpenCV (Python)
 <br>
 
 <ul>
-  <li> For Linux User </li>
+  <li> For Linux User-> Do this in Terminal and For Windows User-> Do this in Command Prompt </li>
   
   <li> Install Python </li>
   
@@ -49,7 +49,10 @@ OpenCV (Python)
  
   ` code .`
    
-   <li> Replace the image file with your background </li>
+   <li> Replace the image file with your background  OR</li>
+   
+   <li> Run background.py  and wait for some seconds to camera window open take a image (without you) by presssing "q"</li>
+  
    <li> Name of the image file must be "image.jpg" </li>
    <li> Run <strong> Invisiblity-cloak.py </strong> </li>
    <li> Enjoy with your invisiblity cloak</li>
