@@ -38,7 +38,7 @@ OpenCV (Python)
 
   <li> Clone this repository into your local machine </li>
   
-  ` git clone https://github.com/sinhasaurabh3104/Invisiblity-Cloak.git `
+  ` git clone https://github.com/sinhasaurabh079/Invisiblity-Cloak.git `
   
   
    <li> Change Directory to Invisiblity Cloak</li>
